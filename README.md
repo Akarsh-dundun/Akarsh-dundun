@@ -1,8 +1,9 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Hi there 👋, my name is Akarsh Gupta
+#### Machine Learning Enthusiast
+Motivating leader pursuing Electrical and Electronics Engineering at NITK Surathkal, skilled in design integration and intuitive problem-solving. Proficient in
+C++, Python, and SQL. Passionate about software-hardware projects.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Python / C++ / Arduino C
 
 - 🌱 I’m currently learning Deep Learning along with React Js 
 - 👯 I’m looking to collaborate on Exciting ML projects 
