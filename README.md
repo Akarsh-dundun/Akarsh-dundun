@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Akarsh Gupta
+### My name is Akarsh Gupta
 #### Machine Learning Enthusiast
 Motivating leader pursuing Electrical and Electronics Engineering at NITK Surathkal, skilled in design integration and intuitive problem-solving. Proficient in
 C++, Python, and SQL. Passionate about software-hardware projects.
